@@ -23,3 +23,13 @@
 [Site oficial do Netlify](https://www.netlify.com/)
 
 [Site oficial do Netlify CMS](https://www.netlifycms.org/)
+
+### 3. Requisitos para o curso
+
+[Site para download do VS Code](https://code.visualstudio.com/)
+
+[Tutorial oficial do Gatsby para instalar os requisitos](https://www.gatsbyjs.com/docs/tutorial/part-zero/)
+
+[Tutorial para instalar e connfigurar o Git no Windows](https://www.atlassian.com/git/tutorials/install-git#windows)
+
+[Link para download do Node JS](https://nodejs.org/en/download/)
