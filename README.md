@@ -74,3 +74,6 @@
 
 [Documentação do Gatsby Link](https://www.gatsbyjs.com/docs/reference/built-in-components/gatsby-link/)
 
+### 10. Criando um componente e compartilhando entre páginas
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/4cfb15b327a534710551bfd5de6fe830fe91c69e)
