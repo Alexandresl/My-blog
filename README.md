@@ -111,3 +111,9 @@
 ### 15. Refaturando para o novo hook `useStaticQuery`
 
 [Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/02a6a04aca88b0fe5a9c535bf8faffea9108564a)
+
+## Seção 4: Trabalhando com Imagens no Gatsby
+
+### 16. Conhecendo as maravilhas do gatsby-image
+
+[Site oficial do Gatsby Image](https://using-gatsby-image.gatsbyjs.org/)
