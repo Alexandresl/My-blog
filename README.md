@@ -117,3 +117,7 @@
 ### 16. Conhecendo as maravilhas do gatsby-image
 
 [Site oficial do Gatsby Image](https://using-gatsby-image.gatsbyjs.org/)
+
+### 17. Confirgurando o gatsby-image
+
+[Link para o plugin oficial](https://www.gatsbyjs.com/plugins/gatsby-image/)
