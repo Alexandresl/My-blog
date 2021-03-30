@@ -103,3 +103,7 @@
 [Como usar o GraphQL Playground tutorial](https://www.gatsbyjs.com/docs/using-graphql-playground/)
 
 [Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/c71ed5a8bd99b7a1150726224c9bc04c5511ed0a)
+
+### 14. Renderizando dados com `StaticQuery`
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/e104d4eddab70fce5a00d7fe6b0d596b55107ea3)
