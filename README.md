@@ -93,3 +93,7 @@
     * Permite evolução constante
     * Entrega somente dados requisitados (tamanho menor e mais rápido)
     * Rota única, dados altamente desacoplados
+
+### 12. Conhecendo o GraphQL e escrevendo nossa primeira query
+
+[Link para acessar o GraphQL no localhost](http://localhost:8000/___graphql)
