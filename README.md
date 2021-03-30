@@ -107,3 +107,7 @@
 ### 14. Renderizando dados com `StaticQuery`
 
 [Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/e104d4eddab70fce5a00d7fe6b0d596b55107ea3)
+
+### 15. Refaturando para o novo hook `useStaticQuery`
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/02a6a04aca88b0fe5a9c535bf8faffea9108564a)
