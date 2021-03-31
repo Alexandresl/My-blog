@@ -128,3 +128,8 @@
 
 ### 19. Entendendo os 2 tipos de imagem responsiva (fluid e fixed)
 
+## Seção 5: Layout e Styled Components
+
+### 20. Introdução ao Styled Components
+
+[Site oficial do Styled Components](https://styled-components.com/)
