@@ -133,3 +133,10 @@
 ### 20. Introdução ao Styled Components
 
 [Site oficial do Styled Components](https://styled-components.com/)
+
+### 21. Instalando e confi9gurando o Styled Components
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/7a0b6d370ef9b73a172e3ab11fcdaa72827e7553)
+
+* Comando para instalar o Styled Components na versão do curso: `yarn add styled-components@4.3.2`
+* Plugin para conexão do Styled Components e Gatsby: `yarn add gatsby-plugin-styled-components@3.1.2`
