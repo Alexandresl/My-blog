@@ -144,3 +144,14 @@
 ### 22. Criando o Layout Component
 
 [Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/53583b353eb1f4602c59ca26c111e0e7c2022377)
+
+### 23. Criando estilos globais com `createGlobalStyle`
+
+[Documentação do createGlobalStyle](https://styled-components.com/docs/api#createglobalstyle)
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/d3ba883ece66639424c81514affbc73f58aa3c57)
+
+### 24. Refaturando o styled component para uma forma mais organizada
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/4febfff49d0e5246221ec7dd70207a42198d2f04)
+
