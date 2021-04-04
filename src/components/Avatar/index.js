@@ -18,7 +18,7 @@ const Avatar = () => {
   )
 
   return (
-    <Img fixed={avatarImage.childImageSharp.fixed} className="foo" />
+    <Img fixed={avatarImage.childImageSharp.fixed} durationFadeIn={10000} />
   )
 }
 
