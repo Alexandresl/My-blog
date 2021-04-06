@@ -162,3 +162,7 @@
 
 [Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/d509ed008dc151f4015f518cef2fe684c8f538d6)
 
+### 26. Criando o Profile Component
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/af3a9bfe95c6efb4e26ca72e97880bcb19d0e05d)
+
