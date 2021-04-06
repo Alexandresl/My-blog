@@ -158,3 +158,7 @@
 
 [Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/4febfff49d0e5246221ec7dd70207a42198d2f04)
 
+### 25. Criando o Avatar Component
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/d509ed008dc151f4015f518cef2fe684c8f538d6)
+
