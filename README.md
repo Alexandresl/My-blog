@@ -166,3 +166,6 @@
 
 [Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/af3a9bfe95c6efb4e26ca72e97880bcb19d0e05d)
 
+### 27. Criando a Sidebar Component
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/5cc68716a84ed1f0ce0972722daa3af9874e239a)
