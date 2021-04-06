@@ -169,3 +169,11 @@
 ### 27. Criando a Sidebar Component
 
 [Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/5cc68716a84ed1f0ce0972722daa3af9874e239a)
+
+### 28. Criando o SocialLinks Component - Parte 1
+
+[Site oficial do Styled Icons](https://styled-icons.js.org/)
+
+* Comando para instalar o Stuled-icons: `yarn add styled-icons@8.3.0`
+
+[Código foi na aula](https://github.com/willianjusten/gatsby-course/commit/48956373fb258db2a6f7df7fa04492fc4d14b70d)
