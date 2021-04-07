@@ -177,3 +177,7 @@
 * Comando para instalar o Stuled-icons: `yarn add styled-icons@8.3.0`
 
 [Código foi na aula](https://github.com/willianjusten/gatsby-course/commit/48956373fb258db2a6f7df7fa04492fc4d14b70d)
+
+### 29. Criando o SocialLinks Component - Parte 2
+
+[Código foi na aula](https://github.com/willianjusten/gatsby-course/commit/f01b6e809ae742e8963627cda68fc1e6c7fa98ac)
