@@ -186,3 +186,10 @@
 
 [Código feito na aula ](https://github.com/willianjusten/gatsby-course/commit/b7707372d4c093b45d8b2af2c18b4d0eb7c10196)
 
+### 31. Criando a MenuBar Component
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/9225176ec31634e68322601b8f54be62b83abc0c)
+
+### 32. Criando o PostItem Component
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/f55e23fe252ec81af1100294e65e80a402b983e7)
