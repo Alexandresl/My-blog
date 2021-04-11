@@ -181,3 +181,4 @@
 ### 29. Criando o SocialLinks Component - Parte 2
 
 [Código foi na aula](https://github.com/willianjusten/gatsby-course/commit/f01b6e809ae742e8963627cda68fc1e6c7fa98ac)
+
