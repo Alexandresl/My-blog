@@ -192,4 +192,8 @@
 
 ### 32. Criando o PostItem Component
 
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/18a1be0aefbfe2bc448ad99f5456cf0e8472dbfa)
+
+### 33. Estruturando os dados do PostItem
+
 [Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/f55e23fe252ec81af1100294e65e80a402b983e7)
