@@ -197,3 +197,12 @@
 ### 33. Estruturando os dados do PostItem
 
 [Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/f55e23fe252ec81af1100294e65e80a402b983e7)
+
+## Seção 6: GraphQL + Remark
+
+### 34. Criando posts em Markdown
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/2b9bf1f39cf94fa7840ac6d1ff6d82564bcbb1bf)
+
+[Site Oficial do MarkDown](https://daringfireball.net/projects/markdown/)
+
