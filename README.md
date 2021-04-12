@@ -222,3 +222,10 @@
 
 [Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/3cc0023ade2f1c3571f55dcf262a241391e1fde3)
 
+### 39. Adicionando fields com o `onCreateNode`
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/069a36e4f7e63653c68ed1428320426dbeb02b68)
+
+[Documentação do Gatsby Node API](https://www.gatsbyjs.com/docs/reference/config-files/gatsby-node/)
+
+[Documentação do onCreateNode](https://www.gatsbyjs.com/docs/reference/config-files/gatsby-node/#onCreateNode)
