@@ -218,3 +218,7 @@
 
 ### 37. Tratando datas no GraphQL
 
+### 38. Passando os dados do GraphQL para a página
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/3cc0023ade2f1c3571f55dcf262a241391e1fde3)
+
