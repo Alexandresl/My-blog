@@ -216,3 +216,5 @@
 
 ### 36. Pegando os dados do Markdown usando GraphQL
 
+### 37. Tratando datas no GraphQL
+
