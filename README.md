@@ -229,3 +229,9 @@
 [Documentação do Gatsby Node API](https://www.gatsbyjs.com/docs/reference/config-files/gatsby-node/)
 
 [Documentação do onCreateNode](https://www.gatsbyjs.com/docs/reference/config-files/gatsby-node/#onCreateNode)
+
+### 40. Usando o createPages da Gatsby Node API
+
+[Documentação do createPages](https://www.gatsbyjs.com/docs/reference/config-files/gatsby-node/#createPages)
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/cd8134ac67922e60577df943415f1cedd991f267)
