@@ -206,3 +206,10 @@
 
 [Site Oficial do MarkDown](https://daringfireball.net/projects/markdown/)
 
+### 35. Configurando o gatsby-transformer-remark
+
+[Documentação do gatsby-transformer-remark](https://www.gatsbyjs.com/plugins/gatsby-transformer-remark/)
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/ad88a902ddbc31662319b349f591217fb8e5fd64)
+
+* Comando para instalar o Gatsby-Transformer-Remark: `yarn add gatsby-transformer-remark@2.6.14`
