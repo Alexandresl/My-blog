@@ -249,3 +249,7 @@
 ### 43. Ordenando os posts pela data
 
 [Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/33349c65df801c481eeef44bb0d8aba6053af890)
+
+### 44. Entendendo o limit e skip para criar uma paginação
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/49114ecdc850e30dbc0615ce09867286c3aa977b)
