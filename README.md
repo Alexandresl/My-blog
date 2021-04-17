@@ -271,3 +271,7 @@
 ### 48. Integrando o Layout ao Blog Post
 
 [Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/89617f003f83f7bfc17763f68648844ef49fd2c5)
+
+### 49. Adicionando estilos bases para o post
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/c9a67aa20f875e99e0c534f45ea2902088ecafe6)
