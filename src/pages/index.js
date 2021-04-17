@@ -9,7 +9,7 @@ const IndexPage = () => {
   const { allMarkdownRemark } = useStaticQuery(
     graphql`
       query PostList {
-        allMarkdownRemark {
+        allMarkdownRemark(sort: { fields: frontmatter___date, order: DESC }) {
           edges {
             node {
               frontmatter {
@@ -40,7 +40,7 @@ const IndexPage = () => {
           node: {
             frontmatter: { background, category, date, description, title },
             timeToRead,
-            fields: { slug}
+            fields: { slug },
           },
         }) => (
           <PostItem

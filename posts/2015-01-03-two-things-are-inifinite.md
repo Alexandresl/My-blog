@@ -1,9 +1,9 @@
 ---
-date: 2021-04-11 05:54:23
+date: 2015-01-03 05:54:23
 title: Two things are infinite
-description: And I'm not sure about the universe
+description: And I'm not sure about the universe.
 category: Misc
-background: "#7aab13"
+background: "#7AAB13"
 ---
 
 # Lorem ipsum

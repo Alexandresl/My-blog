@@ -25,7 +25,7 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
 }
 
 exports.createPages = ({ graphql, actions }) => {
-  const { createPages } = actions
+  const { createPage } = actions
 
   return graphql(`
     {
@@ -40,13 +40,13 @@ exports.createPages = ({ graphql, actions }) => {
       }
     }
   `).then(result => {
-    result.data.allMarkdownRemark.edges.forEacth(({ node }) => {
-      createPages({ 
-        path: node.fiels.slug,
-        component:  path.resolve('./src/templates/blog-post.js'),
+    result.data.allMarkdownRemark.edges.forEach(({ node }) => {
+      createPage({ 
+        path: node.fields.slug,
+        component:  path.resolve(`./src/templates/blog-post.js`),
         context: {
-          slug: node.fields.slug
-        }
+          slug: node.fields.slug,
+        },
     })
     })
   })

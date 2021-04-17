@@ -235,3 +235,17 @@
 [Documentação do createPages](https://www.gatsbyjs.com/docs/reference/config-files/gatsby-node/#createPages)
 
 [Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/cd8134ac67922e60577df943415f1cedd991f267)
+
+### 41. Filtrando dados no GraphQL usando variávveis
+
+[código feito na aula](https://github.com/willianjusten/gatsby-course/commit/857ef4286340aa2f732b313b6002468eed039266)
+
+### 42. Criando o template para o Blog Post
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/857ef4286340aa2f732b313b6002468eed039266)
+
+## Seção 7: Estruturando a Home
+
+### 43. Ordenando os posts pela data
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/33349c65df801c481eeef44bb0d8aba6053af890)
