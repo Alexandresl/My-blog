@@ -275,3 +275,25 @@
 ### 49. Adicionando estilos bases para o post
 
 [Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/c9a67aa20f875e99e0c534f45ea2902088ecafe6)
+
+### 50. Configurando as imagens dentro do post com gatsby-remark-images
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/50126e124245f143a683993b3c1371ed44230a64)
+
+[Documentação do gatsby-remark-images](https://www.gatsbyjs.com/plugins/gatsby-remark-images/)
+
+[Documentação do gatsby-remark-relative-images](https://www.gatsbyjs.com/plugins/gatsby-remark-relative-images/?=gatsby-remark-rela)
+
+[Documentação do gatsby-remark-lazy-load](https://www.gatsbyjs.com/plugins/gatsby-remark-lazy-load/)
+
+* Comando para instalar os plugins: `yarn add gatsby-remark-images@3.1.12 gatsby-remark-relative-images@0.2.3 gatsby-remark-lazy-load@1.0.1 lazysizes@5.1.1 babel-preset-gatsby@1.3.0`
+
+### 51. Configurando o PrismJS para highlight de código
+
+[Site oficial do PrismJS](https://prismjs.com/)
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/b1d859523d16cb77cd1e979fbda4fb98d798fddb)
+
+[Documentação do gatsby-remark-prismJS](https://www.gatsbyjs.com/plugins/gatsby-remark-prismjs/)
+
+* Comando para instalar os plugins: `yarn add gatsby-remark-prismjs@3.3.5 prismjs@1.17.1`

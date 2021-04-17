@@ -78,7 +78,6 @@ export const MainContent = styled.section`
   img {
     display: block;
     max-width: 100%;
-    margin: 1.875rem auto;
   }
   iframe {
     padding: 0 1.6rem 1.6rem;
@@ -91,7 +90,7 @@ export const MainContent = styled.section`
     margin: 3.125rem auto;
   }
   hr {
-    border: 1px solid #38444d;
+    border: 1px solid #192734;
     margin: 3rem auto;
   }
   #twitter-widget-0,
@@ -142,7 +141,11 @@ export const MainContent = styled.section`
     }
   }
   .gatsby-highlight {
-    padding: 0 1.6rem 1.6rem;
+    padding: 0 1.3rem 1.6rem;
+    pre {
+      border: 1px solid #38444d66;
+      margin: 0;
+    }
   }
   .instagram-media {
     margin: 1rem auto !important;
