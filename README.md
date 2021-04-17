@@ -258,3 +258,16 @@
 
 [Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/49114ecdc850e30dbc0615ce09867286c3aa977b)
 
+### 46. Criando o template para a home
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/e1605fd8e0c2ac977da062276a17f48f4054cd4e)
+
+### 47. Criando um componente de paginação
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/3e1756f2cf412ca512c0d7ba833fb069cce149e2)
+
+## Seção 8: Estruturando a Página de Post
+
+### 48. Integrando o Layout ao Blog Post
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/89617f003f83f7bfc17763f68648844ef49fd2c5)
