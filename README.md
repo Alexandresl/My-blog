@@ -253,3 +253,8 @@
 ### 44. Entendendo o limit e skip para criar uma paginação
 
 [Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/49114ecdc850e30dbc0615ce09867286c3aa977b)
+
+### 45. Usando o Gatsby Node API para criar a paginação
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/49114ecdc850e30dbc0615ce09867286c3aa977b)
+
