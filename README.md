@@ -321,3 +321,6 @@
 ### 55. Conhecendo o Algolia
 
 [Site oficial do Algolia](https://www.algolia.com/)
+
+### 56. Criando o primeiro App e configurando índices
+
