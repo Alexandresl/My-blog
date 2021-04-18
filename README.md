@@ -333,3 +333,9 @@
 [Github do dotenv](https://github.com/motdotla/dotenv)
 
 * Comando para instalar o gatsby-plugin-algolia: `yarn add gatsby-plugin-algolia-search@0.5.0`
+
+### 58. Configurando o plugin dentro do Gatsby
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/9afe035b19e6e3d49734050e6192c30a50a03e05)
+
+* Comando para instalação do dotenv: `yarn add dotenv@8.1.0`
