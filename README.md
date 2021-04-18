@@ -315,3 +315,9 @@
 [Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/5e4bf6432f24cbfc3c17a0270db9f84503d350a4)
 
 * Comando para instalar o react-disqus-comments: `yarn add react-disqus-comments@1.4.0`
+
+## Seção 9: Criando a página de Search
+
+### 55. Conhecendo o Algolia
+
+[Site oficial do Algolia](https://www.algolia.com/)
