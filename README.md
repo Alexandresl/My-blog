@@ -297,3 +297,8 @@
 [Documentação do gatsby-remark-prismJS](https://www.gatsbyjs.com/plugins/gatsby-remark-prismjs/)
 
 * Comando para instalar os plugins: `yarn add gatsby-remark-prismjs@3.3.5 prismjs@1.17.1`
+
+### 52. Criando contextos de post anterior e próximo post
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/69d5e959d01d282c75c381e82c9651b6f30b2fb5)
+
