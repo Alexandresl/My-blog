@@ -324,3 +324,12 @@
 
 ### 56. Criando o primeiro App e configurando índices
 
+### 57. Instalando o plugin do Algolia e salvando as chaves da API
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/fa259f96fe09be46a07c163054dffb669f277ae1)
+
+[Documentação do gatsby-plugin-algolia-search](https://www.gatsbyjs.com/plugins/gatsby-plugin-algolia-search/)
+
+[Github do dotenv](https://github.com/motdotla/dotenv)
+
+* Comando para instalar o gatsby-plugin-algolia: `yarn add gatsby-plugin-algolia-search@0.5.0`
