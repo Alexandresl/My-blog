@@ -6,12 +6,12 @@ import { Icons } from './icons';
 const MenuBar = () => (
   <S.MenuBarWrapper>
     <S.MenuBarGroup>
-      <S.MenuBarLink to="" title="Voltar para a home">
+      <S.MenuBarLink to="/" title="Voltar para a home">
         <S.MenuBarItem>
           <Icons.Home />
         </S.MenuBarItem>
       </S.MenuBarLink>
-      <S.MenuBarLink to="" title="Pesquisar">
+      <S.MenuBarLink to="/search" title="Pesquisar">
         <S.MenuBarItem>
           <Icons.Search />
         </S.MenuBarItem>

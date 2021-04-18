@@ -342,3 +342,6 @@
 
 ### 59. Configurando o searchable attribute e custom ranking do Algolia
 
+### 60. Criando a página de Search
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/e164a4c0fac999baa1d2557e6cea52cdb86b1434)
