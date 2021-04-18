@@ -302,3 +302,16 @@
 
 [Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/69d5e959d01d282c75c381e82c9651b6f30b2fb5)
 
+### 53. Criando o RecommendedPost component
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/5e4bf6432f24cbfc3c17a0270db9f84503d350a4)
+
+### 54. Configurando o Disqus para comentários
+
+[Site oficial do Disqus](https://disqus.com/)
+
+[Github do react-disqus-comments](https://github.com/basicsharp/react-disqus-comments)
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/5e4bf6432f24cbfc3c17a0270db9f84503d350a4)
+
+* Comando para instalar o react-disqus-comments: `yarn add react-disqus-comments@1.4.0`
