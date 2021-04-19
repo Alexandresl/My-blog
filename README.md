@@ -345,3 +345,16 @@
 ### 60. Criando a página de Search
 
 [Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/e164a4c0fac999baa1d2557e6cea52cdb86b1434)
+
+### 61. Criando o Search Component
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/3baf0cdd1fdc4500e9f5600dda5b34d964c86132)
+
+[Documentação do react instantSearch](https://www.algolia.com/doc/guides/building-search-ui/what-is-instantsearch/react/)
+
+* Comando para instalação: `yarn add algoliasearch@3.33.0 react-instantsearch-dom@5.7.0`
+
+### 62. Configurando o Input de busca e stats
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/d8b15f89213546b551a53cabe63471e8921a18d5)
+
