@@ -67,3 +67,9 @@
 ### 8. Criando a página de About
 
 [Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/be0512060c74eb15ffa7c20fa75f02e25222da23)
+
+### 9. Entendendo como o gatsby-link funciona
+
+[Código feito na aulta](https://github.com/willianjusten/gatsby-course/commit/f546c75fae7cf21dcb651a54218d1516f0e0693a)
+
+[Documentação do Gatsby Link](https://www.gatsbyjs.com/docs/reference/built-in-components/gatsby-link/)
