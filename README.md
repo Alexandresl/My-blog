@@ -59,3 +59,7 @@
 ### 6. Entendendo a estrutura
 
 [Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/1aca067ad153e81cb60f37f79569d20c50519719)
+
+### 7. Organizando os arquivos
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/6a6a9bd33aff69497e66c221adcc0a84f1ecca3b)
