@@ -43,3 +43,15 @@
     * Segurança
     * Boa experiência para os desenvolvedores
     * Ótima documentação, grande comunicade open source
+
+## Seção 2: Gatsby e sua estrutura
+
+### 5. Iniciando o projeto e entendendo os comandos do gatsby-cli
+
+[Gatsby Tutorial Part Zero](https://www.gatsbyjs.com/docs/tutorial/part-zero/)
+
+* Comando para instalar o GasbyJS (Usarei a versão do Curso): `npm install -g gatsby-cli@2.7.26`
+
+* Comando para iniciar o projeto: `gatsby new nome-projeto`
+
+* Para levantar um servidor do projeto recém criado, basta acessar a pasta `nome-projeto` e usar o comando `gatsby develop` ou `yarn develop` no terminal. Será disponibilizado a url **http://localhost:8000/** com uma página inicial do gatsby.
