@@ -63,3 +63,7 @@
 ### 7. Organizando os arquivos
 
 [Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/6a6a9bd33aff69497e66c221adcc0a84f1ecca3b)
+
+### 8. Criando a página de About
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/be0512060c74eb15ffa7c20fa75f02e25222da23)
