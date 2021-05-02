@@ -55,3 +55,7 @@
 * Comando para iniciar o projeto: `gatsby new nome-projeto`
 
 * Para levantar um servidor do projeto recém criado, basta acessar a pasta `nome-projeto` e usar o comando `gatsby develop` ou `yarn develop` no terminal. Será disponibilizado a url **http://localhost:8000/** com uma página inicial do gatsby.
+
+### 6. Entendendo a estrutura
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/1aca067ad153e81cb60f37f79569d20c50519719)
