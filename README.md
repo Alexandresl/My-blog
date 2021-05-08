@@ -43,3 +43,35 @@
     * Segurança
     * Boa experiência para os desenvolvedores
     * Ótima documentação, grande comunicade open source
+
+## Seção 2: Gatsby e sua estrutura
+
+### 5. Iniciando o projeto e entendendo os comandos do gatsby-cli
+
+[Gatsby Tutorial Part Zero](https://www.gatsbyjs.com/docs/tutorial/part-zero/)
+
+[Gatsby Quick Start](https://www.gatsbyjs.com/docs/quick-start)
+
+* Comando para instalar o GasbyJS (Usarei a versão do Curso): `npm install -g gatsby-cli@2.7.26`
+
+* Comando para iniciar o projeto: `gatsby new nome-projeto`
+
+* Para levantar um servidor do projeto recém criado, basta acessar a pasta `nome-projeto` e usar o comando `gatsby develop` ou `yarn develop` no terminal. Será disponibilizado a url `http://localhost:8000/` com uma página inicial do gatsby.
+
+* Lista de comandos do gatsby(2.7.26):
+    * gatsby develop                   Start development server. Watches files, rebuilds, and hot reloads if something changes
+    * gatsby build                     Build a Gatsby project.
+    * gatsby serve                     Serve previously built Gatsby site.
+    * gatsby info                      Get environment information for debugging and issue reporting
+    * gatsby clean                     Wipe the local gatsby environment including built assets and cache
+    * gatsby repl                      Get a node repl with context of Gatsby environment, see (https://www.gatsbyjs.org/docs/gatsby-repl/)
+    * gatsby new [rootPath] [starter]  Create new Gatsby project.
+    * gatsby plugin                    Useful commands relating to Gatsby plugins
+    * gatsby telemetry                 Enable or disable Gatsby anonymous analytics collection.
+
+* Opções:
+  * Options:
+  * --verbose                Turn on verbose output                                             [boolean] [default: false]
+  * --no-color, --no-colors  Turn off the color in output                                       [boolean] [default: false]
+  * -h, --help               Show help                                                                           [boolean]
+  * -v, --version            Show the version of the Gatsby CLI and the Gatsby package in the current project    [boolean]
