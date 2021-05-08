@@ -92,3 +92,17 @@
 * Arquivos excluídos do projeto padrão:
     * `gatsby-ssr.js` - Serve caso queiramos trabalhar com Server Side Rendering
     
+### 7. Organizando os arquivos
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/6a6a9bd33aff69497e66c221adcc0a84f1ecca3b)
+
+* Arquivos excluídos do projeto padrão:
+    * `src/pages/page-2.js`
+    * `src/components/header.js`
+    * `src/components/layout.css`
+    * `src/images/gatsby-astronaut.png`
+
+* Arquivos alterados do projeto padrão:
+    * `src/pages/index.js` - deixamos além dos componentes de `Layout` e `Seo`, apenas um H1 para mostrar alguma informação em tela. regiramos os imports não utilizados também.
+    * `src/components/layout.js` - Deixamos no `return` da função apenas a *tag* `main`. Excluir imports não utilizados
+    * `gatsby-config.js` - realizado apenas atualização nos dados do `siteMetadata`
