@@ -10,3 +10,16 @@
 
 [Slack do Curso](https://willianjusten-cursos.slack.com/ssb/redirect)
 
+### 2. Stack utilizada no curso
+
+[Site oficial do Gatsby](https://www.gatsbyjs.com/)
+
+[Site oficial do Styled Components](https://styled-components.com/)
+
+[Site oficial do GaphQL](https://graphql.org/)
+
+[Site oficial do Algolia](https://www.algolia.com/)
+
+[Site oficial do Netlify](https://www.netlify.com/)
+
+[Site oficial do Netlify CMS](https://www.netlifycms.org/)
