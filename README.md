@@ -106,3 +106,8 @@
     * `src/pages/index.js` - deixamos além dos componentes de `Layout` e `Seo`, apenas um H1 para mostrar alguma informação em tela. regiramos os imports não utilizados também.
     * `src/components/layout.js` - Deixamos no `return` da função apenas a *tag* `main`. Excluir imports não utilizados
     * `gatsby-config.js` - realizado apenas atualização nos dados do `siteMetadata`
+
+### 8. Criando a página de About
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/be0512060c74eb15ffa7c20fa75f02e25222da23)
+
