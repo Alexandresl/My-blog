@@ -122,3 +122,9 @@
     * utilizamos o componente **Link** com a propriedade **to**: `<li><Link to="/">Home</Link></li>`
 
 * Por opção, para facilitar a utilização do auto-complete do VSCode, renomei os arquivos .js da pasta pages por .jsx
+
+### 10. Criando um componente e compartilhando entre páginas
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/4cfb15b327a534710551bfd5de6fe830fe91c69e)
+
+* O componente que vai estar presente em todas as página será colocado no arquivo `src/components/layout.jsx`
