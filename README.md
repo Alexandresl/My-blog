@@ -156,3 +156,9 @@
 [Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/c71ed5a8bd99b7a1150726224c9bc04c5511ed0a)
 
 * Para utilizar a IDE Prisma Playground utilizamos a variável antes do comando `gatsby develop`. Podemos alterar no arquivo `package.json` para adicionarmos a opção de abrir com o Prisma:  `"develop:playground": "GATSBY_GRAPHQL_IDE=playground gatsby develop",`
+
+### 14. Renderizando dados com `StaticQuery`
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/e104d4eddab70fce5a00d7fe6b0d596b55107ea3)
+
+[Documentação para uso do StaticQuery](https://www.gatsbyjs.com/docs/how-to/querying-data/static-query/)
