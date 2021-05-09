@@ -148,3 +148,11 @@
 ### 12. Conhecendo o GraphQL e escrevendo nossa primeira query
 
 [Link para acessar o GraphQL no localhost](http://localhost:8000/___graphql)
+
+### 13. Utilizando o Prisma Playground ao invés do GraphiQL
+
+[Como usar o GraphQL Playground tutorial](https://www.gatsbyjs.com/docs/using-graphql-playground/)
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/c71ed5a8bd99b7a1150726224c9bc04c5511ed0a)
+
+* Para utilizar a IDE Prisma Playground utilizamos a variável antes do comando `gatsby develop`. Podemos alterar no arquivo `package.json` para adicionarmos a opção de abrir com o Prisma:  `"develop:playground": "GATSBY_GRAPHQL_IDE=playground gatsby develop",`
