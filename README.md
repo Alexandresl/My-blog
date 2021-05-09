@@ -205,3 +205,21 @@
 ### 22. Criando o Layout Component
 
 [Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/53583b353eb1f4602c59ca26c111e0e7c2022377)
+
+### 23. Criando estilos globais com `createGlobalStyle`
+
+[Documentação do createGlobalStyle](https://styled-components.com/docs/api#createglobalstyle)
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/d3ba883ece66639424c81514affbc73f58aa3c57)
+
+Para criar um `createGlobalStyle` criamos uma pasta `styles` e criamos uma arquivo `global.js`. Neste arquivo basta importar e criar a função com os estilos. Por fim, basta adicionar o componente (auto contido) no componente Layout, que está presente em todas as páginas.
+
+```js
+import { createGlobalStyle } from 'styled-components'
+
+const GlobalStyle = createGlobalStyle`
+  body {
+    ...
+  }
+`
+```
