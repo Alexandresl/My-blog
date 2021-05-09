@@ -180,3 +180,8 @@
 [Link para o plugin oficial](https://www.gatsbyjs.com/plugins/gatsby-image/)
 
 * Comando para instalar o Gatsby-Image: `yarn add gatsby-image@2.2.8`
+
+### 18. Criando a primeira query para imagens
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/127ee31fb668333930b43d3640f78ff6c2481c7f)
+
