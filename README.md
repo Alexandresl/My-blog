@@ -174,3 +174,9 @@
 [Documentação do Gatsby-image](https://www.gatsbyjs.com/plugins/gatsby-image/)
 
 [Site oficial do Gatsby Image](https://using-gatsby-image.gatsbyjs.org/)
+
+### 17. Confirgurando o gatsby-image
+
+[Link para o plugin oficial](https://www.gatsbyjs.com/plugins/gatsby-image/)
+
+* Comando para instalar o Gatsby-Image: `yarn add gatsby-image@2.2.8`
