@@ -186,3 +186,9 @@
 [Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/127ee31fb668333930b43d3640f78ff6c2481c7f)
 
 ### 19. Entendendo os 2 tipos de imagem responsiva (fluid e fixed)
+
+## Seção 5: Layout e Styled Components
+
+### 20. Introdução ao Styled Components
+
+[Site oficial do Styled Components](https://styled-components.com/)
