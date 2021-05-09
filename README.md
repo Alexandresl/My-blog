@@ -98,6 +98,7 @@
 
 * Arquivos excluídos do projeto padrão:
     * `src/pages/page-2.js`
+    * `src/pages/using-typescript.tsx`
     * `src/components/header.js`
     * `src/components/layout.css`
     * `src/images/gatsby-astronaut.png`
@@ -200,3 +201,7 @@
 * Comando para instalar o Styled Components na versão do curso: `yarn add styled-components@4.3.2`
 * Plugin para conexão do Styled Components e Gatsby: `yarn add gatsby-plugin-styled-components@3.1.2`
 * Adicionar ao arquivo `gatsby-config.js`, no array de plugins: `gatsby-plugin-styled-components`
+
+### 22. Criando o Layout Component
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/53583b353eb1f4602c59ca26c111e0e7c2022377)
