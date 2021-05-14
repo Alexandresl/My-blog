@@ -223,3 +223,207 @@ const GlobalStyle = createGlobalStyle`
   }
 `
 ```
+
+### 24. Refaturando o styled component para uma forma mais organizada
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/4febfff49d0e5246221ec7dd70207a42198d2f04)
+
+### 25. Criando o Avatar Component
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/d509ed008dc151f4015f518cef2fe684c8f538d6)
+
+### 26. Criando o Profile Component
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/af3a9bfe95c6efb4e26ca72e97880bcb19d0e05d)
+
+### 27. Criando a Sidebar Component
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/5cc68716a84ed1f0ce0972722daa3af9874e239a)
+
+### 28. Criando o SocialLinks Component - Parte 1
+
+[Site oficial do Styled Icons](https://styled-icons.js.org/)
+
+* Comando para instalar o Stuled-icons: `yarn add styled-icons@8.3.0`
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/48956373fb258db2a6f7df7fa04492fc4d14b70d)
+
+### 29. Criando o SocialLinks Component - Parte 2
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/f01b6e809ae742e8963627cda68fc1e6c7fa98ac)
+
+### 30. Criando o MenuLinks Component
+
+[Código feito na aula ](https://github.com/willianjusten/gatsby-course/commit/b7707372d4c093b45d8b2af2c18b4d0eb7c10196)
+
+### 31. Criando a MenuBar Component
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/9225176ec31634e68322601b8f54be62b83abc0c)
+
+### 32. Criando o PostItem Component
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/18a1be0aefbfe2bc448ad99f5456cf0e8472dbfa)
+
+### 33. Estruturando os dados do PostItem
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/f55e23fe252ec81af1100294e65e80a402b983e7)
+
+## Seção 6: GraphQL + Remark
+
+### 34. Criando posts em Markdown
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/2b9bf1f39cf94fa7840ac6d1ff6d82564bcbb1bf)
+
+[Site Oficial do MarkDown](https://daringfireball.net/projects/markdown/)
+
+### 35. Configurando o gatsby-transformer-remark
+
+[Documentação do gatsby-transformer-remark](https://www.gatsbyjs.com/plugins/gatsby-transformer-remark/)
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/ad88a902ddbc31662319b349f591217fb8e5fd64)
+
+* Comando para instalar o Gatsby-Transformer-Remark: `yarn add gatsby-transformer-remark@2.6.14`
+
+### 36. Pegando os dados do Markdown usando GraphQL
+
+### 37. Tratando datas no GraphQL
+
+### 38. Passando os dados do GraphQL para a página
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/3cc0023ade2f1c3571f55dcf262a241391e1fde3)
+
+### 39. Adicionando fields com o `onCreateNode`
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/069a36e4f7e63653c68ed1428320426dbeb02b68)
+
+[Documentação do Gatsby Node API](https://www.gatsbyjs.com/docs/reference/config-files/gatsby-node/)
+
+[Documentação do onCreateNode](https://www.gatsbyjs.com/docs/reference/config-files/gatsby-node/#onCreateNode)
+
+### 40. Usando o createPages da Gatsby Node API
+
+[Documentação do createPages](https://www.gatsbyjs.com/docs/reference/config-files/gatsby-node/#createPages)
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/cd8134ac67922e60577df943415f1cedd991f267)
+
+### 41. Filtrando dados no GraphQL usando variávveis
+
+[código feito na aula](https://github.com/willianjusten/gatsby-course/commit/857ef4286340aa2f732b313b6002468eed039266)
+
+### 42. Criando o template para o Blog Post
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/857ef4286340aa2f732b313b6002468eed039266)
+
+## Seção 7: Estruturando a Home
+
+### 43. Ordenando os posts pela data
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/33349c65df801c481eeef44bb0d8aba6053af890)
+
+### 44. Entendendo o limit e skip para criar uma paginação
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/49114ecdc850e30dbc0615ce09867286c3aa977b)
+
+### 45. Usando o Gatsby Node API para criar a paginação
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/49114ecdc850e30dbc0615ce09867286c3aa977b)
+
+### 46. Criando o template para a home
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/e1605fd8e0c2ac977da062276a17f48f4054cd4e)
+
+### 47. Criando um componente de paginação
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/3e1756f2cf412ca512c0d7ba833fb069cce149e2)
+
+## Seção 8: Estruturando a Página de Post
+
+### 48. Integrando o Layout ao Blog Post
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/89617f003f83f7bfc17763f68648844ef49fd2c5)
+
+### 49. Adicionando estilos bases para o post
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/c9a67aa20f875e99e0c534f45ea2902088ecafe6)
+
+### 50. Configurando as imagens dentro do post com gatsby-remark-images
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/50126e124245f143a683993b3c1371ed44230a64)
+
+[Documentação do gatsby-remark-images](https://www.gatsbyjs.com/plugins/gatsby-remark-images/)
+
+[Documentação do gatsby-remark-relative-images](https://www.gatsbyjs.com/plugins/gatsby-remark-relative-images/?=gatsby-remark-rela)
+
+[Documentação do gatsby-remark-lazy-load](https://www.gatsbyjs.com/plugins/gatsby-remark-lazy-load/)
+
+* Comando para instalar os plugins: `yarn add gatsby-remark-images@3.1.12 gatsby-remark-relative-images@0.2.3 gatsby-remark-lazy-load@1.0.1 lazysizes@5.1.1 babel-preset-gatsby@1.3.0`
+
+### 51. Configurando o PrismJS para highlight de código
+
+[Site oficial do PrismJS](https://prismjs.com/)
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/b1d859523d16cb77cd1e979fbda4fb98d798fddb)
+
+[Documentação do gatsby-remark-prismJS](https://www.gatsbyjs.com/plugins/gatsby-remark-prismjs/)
+
+* Comando para instalar os plugins: `yarn add gatsby-remark-prismjs@3.3.5 prismjs@1.17.1`
+
+### 52. Criando contextos de post anterior e próximo post
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/69d5e959d01d282c75c381e82c9651b6f30b2fb5)
+
+### 53. Criando o RecommendedPost component
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/5e4bf6432f24cbfc3c17a0270db9f84503d350a4)
+
+### 54. Configurando o Disqus para comentários
+
+[Site oficial do Disqus](https://disqus.com/)
+
+[Github do react-disqus-comments](https://github.com/basicsharp/react-disqus-comments)
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/5e4bf6432f24cbfc3c17a0270db9f84503d350a4)
+
+* Comando para instalar o react-disqus-comments: `yarn add react-disqus-comments@1.4.0`
+
+## Seção 9: Criando a página de Search
+
+### 55. Conhecendo o Algolia
+
+[Site oficial do Algolia](https://www.algolia.com/)
+
+### 56. Criando o primeiro App e configurando índices
+
+### 57. Instalando o plugin do Algolia e salvando as chaves da API
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/fa259f96fe09be46a07c163054dffb669f277ae1)
+
+[Documentação do gatsby-plugin-algolia-search](https://www.gatsbyjs.com/plugins/gatsby-plugin-algolia-search/)
+
+[Github do dotenv](https://github.com/motdotla/dotenv)
+
+* Comando para instalar o gatsby-plugin-algolia: `yarn add gatsby-plugin-algolia-search@0.5.0`
+
+### 58. Configurando o plugin dentro do Gatsby
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/9afe035b19e6e3d49734050e6192c30a50a03e05)
+
+* Comando para instalação do dotenv: `yarn add dotenv@8.1.0`
+
+### 59. Configurando o searchable attribute e custom ranking do Algolia
+
+### 60. Criando a página de Search
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/e164a4c0fac999baa1d2557e6cea52cdb86b1434)
+
+### 61. Criando o Search Component
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/3baf0cdd1fdc4500e9f5600dda5b34d964c86132)
+
+[Documentação do react instantSearch](https://www.algolia.com/doc/guides/building-search-ui/what-is-instantsearch/react/)
+
+* Comando para instalação: `yarn add algoliasearch@3.33.0 react-instantsearch-dom@5.7.0`
+
+### 62. Configurando o Input de busca e stats
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/d8b15f89213546b551a53cabe63471e8921a18d5)
