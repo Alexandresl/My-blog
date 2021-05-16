@@ -77,3 +77,19 @@
   * -h, --help - Show help - [boolean]
   * -v, --version - Show the version of the Gatsby CLI and the Gatsby package in the current project - [boolean]
 
+### 6. Entendendo a estrutura
+
+[Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/1aca067ad153e81cb60f37f79569d20c50519719)
+
+* Arquivos/pastas importantes:
+    * `gatsby-config.js` - Principal arquivo do Gatsby. É responsável de fazer toda a configuração dos plugins e outros dados que poderão ser passados para dentro do site.
+    * `gatsby-browser.js` - Neste arquivos ficarão todas as variáveis ou bibliotecas que serão utilizados na parte do frontend.
+    * `gatsby-node.js` - Serve para podermos trabalhar com a API do Gatsby. Iremos determinar a criação dinâmica de páginas e estruturas através deste arquivo.
+    * `/src` - Vai conter o código fonte do nosso site. Será o principal diretório que iremos alterar.
+    * `src/components` - Ficarão todos os componentes que criarmos. Por padrão cada componente tera seu subdiretório individual, com um arquivo `index.js` para a parte do React e um arquivo `styled.js` para utilização com  o `styled-components`.
+    * `src/images` - Imagens utilizadas no projeto.
+    * `src/pages` - As páginas do site. Cada arquivo JavaScript contido nesta pasta será uma página do site.
+    * `public` - Será o local onde ficarão os arquivos gerados. Via de regra nós não iremos alterar manualmente os arquivos desta pasta.
+
+* Arquivos excluídos do projeto padrão:
+    * `gatsby-ssr.js` - Serve caso queiramos trabalhar com Server Side Rendering
