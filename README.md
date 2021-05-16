@@ -134,3 +134,19 @@
 [Código feito na aula](https://github.com/willianjusten/gatsby-course/commit/4cfb15b327a534710551bfd5de6fe830fe91c69e)
 
 * O componente que vai estar presente em todas as página será colocado no arquivo `src/components/layout.jsx`
+
+## Seção 3: Gatsby e GraphQL
+
+### 11. Uma introdução ao GraphQL
+
+[Site oficial do GraphQL](https://graphql.org/)
+
+* O *GraphQL* é uma linguagem de consulta de dados desenvolvida e usada pelo *Facebook* para realizar requisições e entregar informações para aplicações web e mobile desde 2012.
+* Problemas na Rest API:
+    * Dificuldade para evoluir a API (Criação de N versões)
+    * Entrega de dados as vezes não necessários (aumento no tamanho da requisição)
+    * Rotas altamente acopladas
+* Vantagens do GraphQL:
+    * Permite evolução constante
+    * Entrega somente dados requisitados (tamanho menor e mais rápido)
+    * Rota única, dados altamente desacoplados
