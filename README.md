@@ -35,3 +35,13 @@
 [Tutorial para instalar e connfigurar o Git no Windows](https://www.atlassian.com/git/tutorials/install-git#windows)
 
 [Link para download do Node JS](https://nodejs.org/en/download/)
+
+### 4. O que é o Gatsby e por que usar
+
+* É um framework open source baseado em React que auxilia desenvolvedores a criarem sites e apps extremamente rápidos.
+
+* Por que usar o GatsbyJS?
+    * Grande performance
+    * Segurança
+    * Boa experiência para os desenvolvedores
+    * Ótima documentação, grande comunicade open source
